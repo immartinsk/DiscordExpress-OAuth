@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "frontend": "cd ./client && yarn serve",
+        "backend": "cd ./server && yarn dev"
+    }
+}
